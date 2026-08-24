@@ -1,0 +1,17 @@
+{
+  "name": "azul",
+  "version": "1.0.0",
+  "description": "multipurpose discord bot by soey_sause",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "soey_sause",
+  "license": "ISC",
+  "dependencies": {
+    "blapi": "^2.0.1",
+    "dblapi.js": "^2.4.1",
+    "discord.js": "^12.3.1",
+    "mysql": "^2.18.1"
+  }
+}
