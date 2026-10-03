@@ -2,9 +2,9 @@
 Discord bot to boost engagement and let users capture memorable moments.
 
 ## Impact
-- Attained 375+ concurrent servers with a reach of ~20,000 individual users
-- Implemented over 10 unique features including configurable reaction thresholds, per-channel blacklists, NSFW filtering, custom emoji triggers and more
-- Officially verified by Discord, and listed on numerous discord bot directories <a href="https://top.gg/bot/733480290592358411">(eg. top.gg)</a>
+- Launched a Discord bot that scaled to 375+ servers, reaching 20,000 users and handling 100,000+ daily Gateway events by building it in Node.js with the Discord API using an event-driven architecture
+- Enabled Discord server owners to customize thresholds, channels, and emojis by delivering 35 unique features, including a new relational MySQL schema and building per-server bot configurations
+- Bot received official verification by Discord and was listed on numerous Discord bot directories, including <a href="https://top.gg/bot/733480290592358411">top.gg</a>
 
 ## Tech
 Node.js · Discord API · MySQL · VPS
